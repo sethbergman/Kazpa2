@@ -1,6 +1,8 @@
 Kazpa2
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/Kazpa2.svg)](https://greenkeeper.io/)
+
 The supercharged Casper theme for [Ghost](https://github.com/TryGhost/Ghost).
 
 # Intro
