@@ -34,18 +34,18 @@
     "bugs": "https://github.com/sethbergman/Kazpa2/issues",
     "contributors": "https://github.com/sethbergman/Kazpa2/graphs/contributors",
     "devDependencies": {
-        "autoprefixer": "6.3.6",
-        "cssnano": "3.7.1",
+        "autoprefixer": "7.2.3",
+        "cssnano": "3.10.0",
         "gulp": "3.9.1",
         "gulp-livereload": "3.8.1",
-        "gulp-nodemon": "2.1.0",
-        "gulp-postcss": "6.1.1",
-        "gulp-sourcemaps": "1.6.0",
-        "gulp-util": "3.0.7",
-        "gulp-watch": "4.3.8",
-        "postcss-color-function": "2.0.1",
-        "postcss-custom-properties": "5.0.1",
-        "postcss-easy-import": "1.0.1"
+        "gulp-nodemon": "2.2.1",
+        "gulp-postcss": "7.0.1",
+        "gulp-sourcemaps": "2.6.2",
+        "gulp-util": "3.0.8",
+        "gulp-watch": "4.3.11",
+        "postcss-color-function": "4.0.1",
+        "postcss-custom-properties": "6.2.0",
+        "postcss-easy-import": "3.0.0"
     },
     "config": {
         "posts_per_page": 50
