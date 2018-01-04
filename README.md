@@ -58,9 +58,8 @@ For social links, we provide icons for 20 popular services (check the following 
 '500px', 'facebook', 'flickr', 'github', 'gmail', 'googleplus', 'instagram', 'line', 'linkedin', 'messenger', 'microsoftoutlook', 'plurk', 'sinaweibo', 'skype', 'snapchat', 'stackoverflow', 'telegram', 'twitter', 'wechat', 'whatsapp'
 ```
 
-### Helpers
 
-# Helpers
+# Handlebars Helpers
 
 ```
 {{#get "posts" filter="featured:false" limit="8" include="author,tags"}}
